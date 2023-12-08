@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "leNE/pgb8BldxjfyCA4IleBEHwB+cBSFU8AQKeyK5kk=",
+  "Source": "MessagingSystemService",
+  "BasePath": "_content/MessagingSystemService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
