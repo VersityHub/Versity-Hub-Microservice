@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentIntegrationService",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotificationSystemService", "NotificationSystemService\NotificationSystemService.csproj", "{13EB3661-8236-430D-8B0C-759F9A6D9F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "APIGateway\APIGateway.csproj", "{C9FB188E-BDA6-43A0-AEB0-2CEE0CE15E16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "OcelotAPIGateway\APIGateway.csproj", "{A9D64356-DC21-47FE-B041-8D451F9AA569}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,10 +65,10 @@ Global
 		{13EB3661-8236-430D-8B0C-759F9A6D9F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13EB3661-8236-430D-8B0C-759F9A6D9F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13EB3661-8236-430D-8B0C-759F9A6D9F4B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C9FB188E-BDA6-43A0-AEB0-2CEE0CE15E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C9FB188E-BDA6-43A0-AEB0-2CEE0CE15E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C9FB188E-BDA6-43A0-AEB0-2CEE0CE15E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C9FB188E-BDA6-43A0-AEB0-2CEE0CE15E16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D64356-DC21-47FE-B041-8D451F9AA569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D64356-DC21-47FE-B041-8D451F9AA569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D64356-DC21-47FE-B041-8D451F9AA569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D64356-DC21-47FE-B041-8D451F9AA569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

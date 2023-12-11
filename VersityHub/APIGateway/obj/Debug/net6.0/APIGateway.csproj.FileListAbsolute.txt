@@ -41,3 +41,14 @@ C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\API
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\obj\Debug\net6.0\APIGateway.pdb
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\obj\Debug\net6.0\APIGateway.genruntimeconfig.cache
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\obj\Debug\net6.0\ref\APIGateway.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\IPAddressRange.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\APIGateway\obj\Debug\net6.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
