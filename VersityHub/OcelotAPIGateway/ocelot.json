@@ -1,0 +1,47 @@
+{
+    "Routes": [
+        //ProductManagement API
+        {
+            "UpstreamPathTemplate": "/api/v1/Products",
+            "UpstreamHttpMethod": [ "Put", "GET", "Post", "Delete" ],
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44346
+                }
+            ],
+            "DownstreamPathTemplate": "/api/v1/Products"
+        },
+        {
+            "UpstreamPathTemplate": "/api/v1/Products/{id}",
+            "UpstreamHttpMethod": [ "Put", "GET", "Post", "Delete" ],
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44346
+                }
+            ],
+            "DownstreamPathTemplate": "/api/v1/Products/{id}"
+        },
+
+        //OrderManagement API
+        {
+            "UpstreamPathTemplate": "/WeatherForecast",
+            "UpstreamHttpMethod": ["GET" ],
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44382
+                }
+            ],
+            "DownstreamPathTemplate": "/WeatherForecast"
+        }
+    ],
+    "GlobalConfiguration": {
+
+    }
+
+}
