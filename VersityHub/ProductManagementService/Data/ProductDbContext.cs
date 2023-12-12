@@ -3,10 +3,10 @@ using ProductManagementService.Model.Products;
 
 namespace ProductManagementService.Data
 {
-    public class ProductDbContext : DbContext
+    public class PMDbContext : DbContext
     {
 
-        public ProductDbContext(DbContextOptions<ProductDbContext> options)
+        public PMDbContext(DbContextOptions<PMDbContext> options)
             : base(options)
         {
 
