@@ -7,10 +7,10 @@ namespace ProductManagementService.Repository.ProductsRepository;
 public partial class ProductRepository : IProductRepository
 {
 
-    private readonly ProductDbContext _context;
+    private readonly PMDbContext _context;
     private readonly ILogger<ProductRepository> _logger;
 
-    public ProductRepository(ProductDbContext context, ILogger<ProductRepository> logger)
+    public ProductRepository(PMDbContext context, ILogger<ProductRepository> logger)
     {
         _context = context;
         _logger = logger;

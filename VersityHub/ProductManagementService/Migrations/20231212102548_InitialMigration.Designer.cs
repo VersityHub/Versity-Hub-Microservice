@@ -10,9 +10,9 @@ using ProductManagementService.Data;
 
 namespace ProductManagementService.Migrations
 {
-    [DbContext(typeof(ProductDbContext))]
-    [Migration("20231208135811_ProductDatabase")]
-    partial class ProductDatabase
+    [DbContext(typeof(PMDbContext))]
+    [Migration("20231212102548_InitialMigration")]
+    partial class InitialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

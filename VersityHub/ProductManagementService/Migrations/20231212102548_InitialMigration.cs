@@ -4,7 +4,7 @@
 
 namespace ProductManagementService.Migrations
 {
-    public partial class ProductDatabase : Migration
+    public partial class InitialMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
