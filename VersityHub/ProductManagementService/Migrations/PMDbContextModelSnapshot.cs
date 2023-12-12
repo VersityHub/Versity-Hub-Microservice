@@ -9,8 +9,8 @@ using ProductManagementService.Data;
 
 namespace ProductManagementService.Migrations
 {
-    [DbContext(typeof(ProductDbContext))]
-    partial class ProductDbContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(PMDbContext))]
+    partial class PMDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {

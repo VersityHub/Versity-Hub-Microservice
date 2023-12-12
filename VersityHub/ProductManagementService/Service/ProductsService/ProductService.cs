@@ -11,13 +11,13 @@ public partial class ProductService : IProductService
     private readonly IProductRepository _productRepository;
     private readonly ILogger<ProductService> _logger;
     private readonly IConfiguration _config;
-    private readonly ProductDbContext _context;
+    private readonly PMDbContext _context;
     private readonly IMapper _mapper;
 
     public ProductService(
         IProductRepository productRepository,
         ILogger<ProductService> logger, IConfiguration config,
-        ProductDbContext context,
+        PMDbContext context,
         IMapper mapper
         )
     {

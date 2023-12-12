@@ -18,7 +18,7 @@ namespace ProductManagementService
                 .AddJsonFile("appsettings.json")
                 .Build();
 
-            builder.Services.AddDbContext<ProductDbContext>(
+            builder.Services.AddDbContext<PMDbContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("ProductDB")));
 
             builder.Services.AddControllers();
