@@ -30,11 +30,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Model\Category\" />
-    <Folder Include="Repository\CategoryRepository\Interface\" />
-    <Folder Include="Repository\CategoryRepository\" />
-    <Folder Include="Service\CategoryService\Interface\" />
-  </ItemGroup>
-
 </Project>

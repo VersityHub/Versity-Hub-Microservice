@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using ProductManagementService.Model.ProductCategories;
 using ProductManagementService.Model.Products;
 
 namespace ProductManagementService.Helpers;
@@ -9,7 +10,7 @@ public class AutoMapperConfig : Profile
     {
         CreateMap<Product, ProductDTO>()
             .ReverseMap();
-        /*CreateMap<State, StateDTO>()
-            .ReverseMap();*/
+        CreateMap<Category, CategoryDTO>()
+            .ReverseMap();
     }
 }
