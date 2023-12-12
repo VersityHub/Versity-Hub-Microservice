@@ -1,7 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using ProductManagementService.Data;
+using ProductManagementService.Repository.CategoryRepository;
+using ProductManagementService.Repository.CategoryRepository.Interface;
 using ProductManagementService.Repository.ProductsRepository;
 using ProductManagementService.Repository.ProductsRepository.Interface;
+using ProductManagementService.Service.CategoryService;
+using ProductManagementService.Service.CategoryService.Interface;
 using ProductManagementService.Service.ProductsService;
 using ProductManagementService.Service.ProductsService.Interface;
 
@@ -26,6 +30,8 @@ namespace ProductManagementService
             builder.Services.AddAutoMapper(typeof(Program));
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
             builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<ICategoryService, CategoryService>();
             
             builder.Services.AddSwaggerGen();
             builder.Services.AddApiVersioning(options =>

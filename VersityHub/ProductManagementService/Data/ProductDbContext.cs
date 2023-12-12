@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ProductManagementService.Model.ProductCategories;
 using ProductManagementService.Model.Products;
 
 namespace ProductManagementService.Data
@@ -12,6 +13,7 @@ namespace ProductManagementService.Data
 
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
 
     }
