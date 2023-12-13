@@ -1,10 +1,3 @@
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.csproj.AssemblyReference.cache
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.AssemblyInfoInputs.cache
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.AssemblyInfo.cs
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.csproj.CoreCompileInputs.cache
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\appsettings.json
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\UserService.exe
@@ -16,6 +9,9 @@ C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\Use
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Humanizer.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -33,6 +29,8 @@ C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\Use
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
@@ -49,6 +47,7 @@ C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\Use
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\System.Runtime.Caching.dll
@@ -70,6 +69,13 @@ C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\Use
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.csproj.AssemblyReference.cache
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.AssemblyInfoInputs.cache
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.AssemblyInfo.cs
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.csproj.CoreCompileInputs.cache
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\staticwebassets\msbuild.UserService.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\staticwebassets\msbuild.build.UserService.props
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserService.props
@@ -84,9 +90,3 @@ C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\Use
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.pdb
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\UserService.genruntimeconfig.cache
 C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\obj\Debug\net6.0\ref\UserService.dll
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\LAG-SOFTWARE\Documents\Projects\Versity-Hub-Microservice\VersityHub\UserService\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
